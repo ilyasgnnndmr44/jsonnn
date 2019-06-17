@@ -1,11 +1,20 @@
 {
-  "posts": [
+  "ayet": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "اَللّٰهُ لَٓا اِلٰهَ اِلَّا هُوَۚ اَلْحَيُّ الْقَيُّومُۚ"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "tefsir": [
+    {
+      "id": 2,
+     "title": "Allah, O’ndan başka ilah yoktur."
+    }
+  ],
+   "hadis": [
+    {
+      "id": 3,
+     "title": "وَهُوَ الْعَلِيُّ الْعَظ۪يمُ "
+    }
+  ],
 }
